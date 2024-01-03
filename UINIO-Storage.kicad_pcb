@@ -5971,6 +5971,19 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a17e65db-692e-4df2-9b25-9f2e396c05a3))
   (gr_line (start 121.58 123.024214) (end 121.58 113.554214)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp a3a79bb5-4677-407d-88fc-927a89468fff))
+  (gr_poly
+    (pts
+      (xy 128 106.2)
+      (xy 128 108.2)
+      (xy 174 108.2)
+      (xy 174 106.2)
+      (xy 160 106.2)
+      (xy 160 91.2)
+      (xy 158 91.2)
+      (xy 158 106.2)
+    )
+
+    (stroke (width 0.1) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp ce9cf76e-d883-4a9b-a3d2-afe6ca041eef))
   (gr_arc (start 140.35 123.024214) (mid 139.764214 124.438428) (end 138.35 125.024214)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp e86b56e6-5167-4db4-abbb-8c2f11386342))
   (gr_text "SCLK" (at 124.47 96.82) (layer "F.SilkS" knockout) (tstamp 033e0999-f2f0-464a-a79d-00b247976ad7)
