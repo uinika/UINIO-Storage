@@ -1,0 +1,60 @@
+### Footprint positions - created on Sun Jan  7 22:38:11 2024 ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                    PosX       PosY       Rot  Side
+C1        0.1uF                 C_0402_1005Metric                       51.8220    -3.6870    0.0000  top
+C2        0.1uF                 C_0402_1005Metric                       10.9820   -31.7528  180.0000  top
+C3        0.1uF                 C_0402_1005Metric                       36.5770   -31.6450  180.0000  top
+C4        0.1uF                 C_0402_1005Metric                       53.2220   -38.3070    0.0000  top
+C5        1uF                   C_0603_1608Metric                        7.9820    -4.4730   90.0000  top
+C6        1uF                   C_0603_1608Metric                       13.5220    -4.4730  -90.0000  top
+Card1     TF_Card_02A           TF-SMD_TF-02                            20.5320   -11.8370   90.0000  top
+D1        LED_Red               LED_0603_1608Metric                     53.2420   -15.1970  180.0000  top
+D2        LED_Red               LED_0603_1608Metric                      6.5920   -34.5228  180.0000  top
+D3        LED_Red               LED_0603_1608Metric                     31.5245   -34.5270  180.0000  top
+D4        LED_Red               LED_0603_1608Metric                     10.1870   -20.7370    0.0000  top
+D5        LED_Red               LED_0603_1608Metric                     52.6620   -28.6900  180.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                28.0820   -40.7228    0.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                32.4220    -1.8370    0.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                49.2120   -16.8850  -90.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                28.0820   -29.9028    0.0000  top
+HOLE**    Hole-2mm              Hole-2mm                                38.6170    -7.2370    0.0000  top
+HOLE**    Hole-2mm              Hole-2mm                                19.2870   -35.3370    0.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                19.0650   -21.8370    0.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                49.2120   -40.2250  -90.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                 5.7080   -21.8370    0.0000  top
+HOLE**    Hole-2mm              Hole-2mm                                 4.8020   -26.1320    0.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                49.2120   -25.1650  -90.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                19.0650    -1.8370    0.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                49.2120    -1.8250  -90.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                32.4220   -21.8370    0.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                 5.7080    -1.8370    0.0000  top
+HOLE**    Hole-2mm              Hole-2mm                                49.4870   -21.0270    0.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                 4.2820   -29.9028    0.0000  top
+HOLE**    Hole-1mm              Hole-1mm                                 4.2820   -40.7228    0.0000  top
+J1        Conn_01x04_Pin        PinHeader_1x04_P2.54mm_Vertical         -0.5380   -31.5120    0.0000  top
+J2        Conn_01x04_Pin        PinHeader_1x04_P2.54mm_Vertical         23.2570   -31.5120    0.0000  top
+J3        Conn_01x06_Pin        PinHeader_1x06_P2.54mm_Vertical         42.7020   -15.7070  180.0000  top
+J4        Conn_01x08_Pin        PinHeader_1x08_P2.54mm_Vertical         -0.5480    -2.9620    0.0000  top
+J5        Conn_01x06_Pin        PinHeader_1x06_P2.54mm_Vertical         42.7020   -26.3470    0.0000  top
+R1        10K                   R_0402_1005Metric                        7.1820   -38.2428  180.0000  top
+R2        10K                   R_0402_1005Metric                        7.1820   -36.5328  180.0000  top
+R3        10K                   R_0402_1005Metric                       32.1145   -38.2470  180.0000  top
+R4        10K                   R_0402_1005Metric                       32.1145   -36.5370    0.0000  top
+R5        2K                    R_0402_1005Metric                       50.8320   -14.9370  180.0000  top
+R6        2K                    R_0402_1005Metric                       32.1145   -32.5170  180.0000  top
+R7        2K                    R_0402_1005Metric                        7.1820   -32.5128  180.0000  top
+R8        10K                   R_0603_1608Metric                       10.1870    -7.7470    0.0000  top
+R9        10K                   R_0603_1608Metric                       10.1870    -9.9053    0.0000  top
+R10       10K                   R_0603_1608Metric                       10.1870   -12.0637    0.0000  top
+R11       10K                   R_0603_1608Metric                       10.1870   -14.2220    0.0000  top
+R12       2K                    R_0603_1608Metric                       10.1870   -18.5387    0.0000  top
+R13       2K                    R_0402_1005Metric                       53.2520   -26.9070    0.0000  top
+R14       10K                   R_0603_1608Metric                       10.1870   -16.3803    0.0000  top
+U1        I2C-24-EEPROM-SOIC8   SOIC-8_3.9x4.9mm_P1.27mm                12.3920   -36.0128   90.0000  top
+U2        I2C-24-EEPROM-TSSOP8  TSSOP-8_4.4x3mm_P0.65mm                 37.0420   -36.0583   90.0000  top
+U3        SPI-25-Flash-SOIC8    SOIC-8_5.23x5.23mm_P1.27mm              51.9870    -9.3470   90.0000  top
+U4        ME6211                SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR       10.7520    -4.5870  180.0000  top
+U5        SPI-25-Flash-WSON8    WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm    52.1070   -33.9180   90.0000  top
+## End
