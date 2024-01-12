@@ -8,7 +8,7 @@
     (title "UINIO-Storage")
     (date "2024-01-07")
     (rev "Version 1.0.0")
-    (company "UinIO.com 电子实验室")
+    (company "UinIO.com 电子技术实验室")
   )
 
   (lib_symbols
